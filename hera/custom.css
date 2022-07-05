@@ -1,0 +1,14 @@
+
+.text-white {
+  color: white !important;
+}
+
+.pc-btn {
+	padding: 5px 12px 1px 12px !important;
+}
+
+@media only screen and (max-width: 760px) {
+  	.table-resp {
+		overflow-x:auto !important;
+	}
+}
